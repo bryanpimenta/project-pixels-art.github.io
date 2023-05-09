@@ -1,4 +1,4 @@
-ARTE COM PIXELS (https://bryanpimenta.github.io/project-pixels-art.github.io/) 
+ARTE COM PIXELS (https://bryanpimenta.github.io/project-pixels-art.github.io/)  
 
 Este é um projeto de arte com pixels que utiliza habilidades adquiridas no módulo de Fundamentos do curso oferecido pela Trybe. Durante o curso, foram apresentados os conceitos fundamentais de HTML, CSS e JavaScript, os quais foram aplicados neste projeto em particular.
 
