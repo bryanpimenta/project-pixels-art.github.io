@@ -4,4 +4,3 @@ Este é um projeto de arte com pixels que utiliza habilidades adquiridas no mód
 
 Este projeto foi desenvolvido com base em uma série de requisitos específicos que foram cumpridos. Além disso, o projeto está em constante evolução e será atualizado periodicamente, a fim de aprimorar o design da página, incorporando novas habilidades aprendidas ao longo do curso.
 
-![image](https://user-images.githubusercontent.com/122633027/223855335-c6d042f9-7a28-48ef-a434-f0d949c32927.png)
