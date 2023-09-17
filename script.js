@@ -7,7 +7,7 @@ function firstColorPalette() {
   palette[0].classList.add('selected');
 }
 
-// ------------------------------Isso tudo cria pixels-------------------------------
+// Função para gerar pixels/divs
 function generatePixel(n) {
   for (let i = 0; i < n; i += 1) {
     const parentDiv = document.createElement('div');
@@ -22,7 +22,6 @@ function generatePixel(n) {
   localStorage.setItem('boardSize', pixelsColect.childElementCount);
   nodePixels = document.querySelectorAll('#pixel-board .pixel');
 }
-// ------------------------------Isso tudo cria pixels-------------------------------
 
 // Função para salvar a quantidade de pixel no LocalStorage
 function loadPixels() {
@@ -167,7 +166,7 @@ function sizeRedirection() {
   }
 }
 
-// função apagar todos as divs
+// Função apagar todos as divs
 function removePixels() {
   sizeRedirection();
   for (let i = 0; pixelsColect.childElementCount > 0; i += 1) {
@@ -180,7 +179,7 @@ function removePixels() {
   }
 }
 
-// Função do botão VQV >>> Gerar pixels
+// Função do botão Gerar pixels
 document.querySelector('#generate-board').addEventListener('click', removePixels);
 
 // Load do localStorage
